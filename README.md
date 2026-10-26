@@ -17,6 +17,8 @@ Each simulation cell represents a nanoparticle with:
 
 > ⚠️ **No dipolar interactions** are included in this model.
 > The assembly is treated as a collection of non-interacting particles.
+MoisesZar
+moisesg.zarzoza@uclm.es
 
 ## Requirements
 
